@@ -22,4 +22,4 @@ L'hypothèse est qu'à l'approche d'un point de bascule ("tipping point"), le sy
 
 ## 4. Technologie
 
-* L'ensemble de l'analyse économétrique et statistique a été implémenté en **SAS 9.4** (potentiellement avec `SAS/STAT`, `SAS/ETS`).
+* L'ensemble de l'analyse économétrique et statistique a été implémenté en **SAS 9.4**.
